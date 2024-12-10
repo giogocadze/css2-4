@@ -1,0 +1,67 @@
+#mainPictureAndText {
+    width: 1400px;
+    height: 674px;
+    border-radius: 33.185px;
+    background-image: url("../image/image\ \(2\).png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 156px auto;
+}
+
+#textPicture {
+    color: #FFF;
+    font-size: 44.452px;
+}
+
+#textInPicture {
+    margin: auto;
+    width: 1258px;
+    height: 159px;
+    padding-top: 39px;
+}
+
+#emailcontainer {
+    width: 1137px;
+    padding: 40px 32px;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+    margin: 0 auto;
+    height: 350px;
+}
+
+#paragraph {
+    color: #181D27;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+
+#saleparaghrap {
+    color: #535862;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+#emailbox {
+    border: 1px solid #D5D7DA;
+    width: 345px;
+    height: 48px;
+    background: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 48px;
+}
+
+#email {
+    color: #717680;
+    border-style: none;
+    font-style: normal;
+    font-weight: 400;
+    width: 317px;
+    height: 24px;
+
+}
